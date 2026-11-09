@@ -1,4 +1,5 @@
 {  
+  "DFFlagDisableDPIScale": true,
   "FFlagEnableInGameMenuModernization": false,
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
   "DFIntDebugFRMQualityLevelOverride": 1,
@@ -139,7 +140,6 @@
   "FIntRenderLocalLightUpdatesMin": 0,
   "DFIntDebugTextureManagerSkipMips": 2,
   "FFlagDisablePostFx": true,
-  "FFlagFRMRefactor": false,
   "DFIntSignalRCore": 1,
   "DFIntSignalRCoreError": 1,
   "DFIntSignalRCoreHubConnectionDisconnectInfoHundredthsPercent": 10,
