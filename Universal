@@ -1,10 +1,9 @@
 {  
   "DFFlagDisableDPIScale": true,
   "FFlagFRMRefactor": false,
-  "FIntRenderShadowIntensity": "0",
+  "FIntRenderShadowIntensity": 0,
   "FFlagEnableInGameMenuModernization": false,
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
-  "DFIntDebugFRMQualityLevelOverride": 1,
   "DFFlagTextureQualityOverrideEnabled": true,
   "DFIntTextureQualityOverride": 0,
   "FIntTerrainArraySliceSize": 8,
