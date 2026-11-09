@@ -1,4 +1,4 @@
-{
+{  
   "DFFlagDisableDPIScale": true,
   "FFlagFRMRefactor": false,
   "FIntRenderShadowIntensity": 0,
@@ -6,7 +6,8 @@
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
   "DFFlagTextureQualityOverrideEnabled": true,
   "DFIntTextureQualityOverride": 0,
-  "FIntTerrainArraySliceSize": 4,
+  "DFIntDebugFRMQualityLevelOverride": 2,
+  "FIntTerrainArraySliceSize": 8,
   "FFlagDebugDisableTelemetryEphemeralCounter": true,
   "FFlagDebugDisableTelemetryEphemeralStat": true,
   "FFlagDebugDisableTelemetryEventIngest": true,
@@ -14,7 +15,6 @@
   "FFlagDebugDisableTelemetryV2Counter": true,
   "FFlagDebugDisableTelemetryV2Event": true,
   "FFlagDebugDisableTelemetryV2Stat": true,
-  "DFFlagDebugPauseVoxelizer": true,
   "FFlagDebugSkyGray": true,
   "FIntFRMMinGrassDistance": 0,
   "FIntFRMMaxGrassDistance": 0,
@@ -137,8 +137,6 @@
   "FIntInterpolationAwareTargetTimeLerpHundredth": 100,
   "FFlagGlobalWindActivated": false,
   "FFlagGlobalWindRendering": false,
-  "FIntRenderLocalLightUpdatesMax": 0,
-  "FIntRenderLocalLightUpdatesMin": 0,
   "DFIntDebugTextureManagerSkipMips": 2,
   "FFlagDisablePostFx": true,
   "DFIntSignalRCore": 1,
@@ -148,5 +146,9 @@
   "DFIntSignalRHubConnectionConnectTimeoutMs": 7000,
   "DFIntSignalRHubConnectionHeartbeatTimerRateMs": 1000,
   "DFIntSignalRHubConnectionMaxRetryTimeMs": 1000,
-  "FIntMaquettesFrameRateBufferPercentage": 0
+  "FIntMaquettesFrameRateBufferPercentage": 0,
+  "DFIntDebugRestrictGCDistance": 6,
+  "FIntRenderLocalLightFadeInMs_enabled": 99999,
+  "FIntRenderLocalLightUpdatesMax": 1,
+  "FIntRenderLocalLightUpdatesMin": 1
 }
