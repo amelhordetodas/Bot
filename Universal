@@ -6,7 +6,7 @@
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
   "DFFlagTextureQualityOverrideEnabled": true,
   "DFIntTextureQualityOverride": 0,
-  "DFIntDebugFRMQualityLevelOverride": 2,
+  "DFIntDebugFRMQualityLevelOverride": 3,
   "FIntTerrainArraySliceSize": 8,
   "FFlagDebugDisableTelemetryEphemeralCounter": true,
   "FFlagDebugDisableTelemetryEphemeralStat": true,
