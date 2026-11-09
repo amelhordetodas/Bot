@@ -1,6 +1,7 @@
 {  
   "DFFlagDisableDPIScale": true,
   "FFlagFRMRefactor": false,
+  "FIntRenderShadowIntensity": "0",
   "FFlagEnableInGameMenuModernization": false,
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
   "DFIntDebugFRMQualityLevelOverride": 1,
@@ -20,7 +21,6 @@
   "FIntRenderGrassDetailStrands": 0,
   "FIntRobloxGuiBlurIntensity": 0,
   "FIntFullscreenTitleBarTriggerDelayMillis": 18000000,
-  "DFFlagDebugPauseVoxelizer": true,
   "FIntDebugForceMSAASamples": 1,
   "DFIntCSGLevelOfDetailSwitchingDistance": 1,
   "DFIntCSGLevelOfDetailSwitchingDistanceL12": 2,
