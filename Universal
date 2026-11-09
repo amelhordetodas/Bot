@@ -1,5 +1,5 @@
-{  
-  "DFFlagDisableDPIScale": true,
+{
+  "FIntMaquettesFrameRateBufferPercentage": 0,
   "FFlagEnableInGameMenuModernization": false,
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
   "DFIntDebugFRMQualityLevelOverride": 1,
@@ -25,8 +25,8 @@
   "DFIntCSGLevelOfDetailSwitchingDistanceL12": 2,
   "DFIntCSGLevelOfDetailSwitchingDistanceL23": 3,
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": 4,
-  "DFIntAnimationLodFacsDistanceMin": 0,
-  "DFIntAnimationLodFacsDistanceMax": 0,
+  "DFIntSignalRHubConnectionMaxRetryTimeMs": 1000,
+  "DFIntSignalRHubConnectionHeartbeatTimerRateMs": 1000,
   "FFlagChromeBetaFeature": false,
   "FFlagChromeCapturesToggle2": false,
   "FFlagChromeObservableStateCheck": false,
@@ -144,8 +144,5 @@
   "DFIntSignalRCoreError": 1,
   "DFIntSignalRCoreHubConnectionDisconnectInfoHundredthsPercent": 10,
   "DFIntSignalRCoreTimerMs": 50,
-  "DFIntSignalRHubConnectionConnectTimeoutMs": 7000,
-  "DFIntSignalRHubConnectionHeartbeatTimerRateMs": 1000,
-  "DFIntSignalRHubConnectionMaxRetryTimeMs": 1000,
-  "FIntMaquettesFrameRateBufferPercentage": 0
+  "DFIntSignalRHubConnectionConnectTimeoutMs": 7000
 }
