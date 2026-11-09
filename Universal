@@ -1,4 +1,4 @@
-{  
+{
   "DFFlagDisableDPIScale": true,
   "FFlagFRMRefactor": false,
   "FIntRenderShadowIntensity": 0,
@@ -6,7 +6,7 @@
   "DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
   "DFFlagTextureQualityOverrideEnabled": true,
   "DFIntTextureQualityOverride": 0,
-  "FIntTerrainArraySliceSize": 8,
+  "FIntTerrainArraySliceSize": 4,
   "FFlagDebugDisableTelemetryEphemeralCounter": true,
   "FFlagDebugDisableTelemetryEphemeralStat": true,
   "FFlagDebugDisableTelemetryEventIngest": true,
@@ -14,6 +14,7 @@
   "FFlagDebugDisableTelemetryV2Counter": true,
   "FFlagDebugDisableTelemetryV2Event": true,
   "FFlagDebugDisableTelemetryV2Stat": true,
+  "DFFlagDebugPauseVoxelizer": true,
   "FFlagDebugSkyGray": true,
   "FIntFRMMinGrassDistance": 0,
   "FIntFRMMaxGrassDistance": 0,
@@ -147,6 +148,5 @@
   "DFIntSignalRHubConnectionConnectTimeoutMs": 7000,
   "DFIntSignalRHubConnectionHeartbeatTimerRateMs": 1000,
   "DFIntSignalRHubConnectionMaxRetryTimeMs": 1000,
-  "FIntMaquettesFrameRateBufferPercentage": 0,
-  "DFIntDebugRestrictGCDistance": 6
+  "FIntMaquettesFrameRateBufferPercentage": 0
 }
