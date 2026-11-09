@@ -149,5 +149,5 @@
   "DFIntSignalRHubConnectionHeartbeatTimerRateMs": 1000,
   "DFIntSignalRHubConnectionMaxRetryTimeMs": 1000,
   "FIntMaquettesFrameRateBufferPercentage": 0,
-  "DFIntDebugRestrictGCDistance": 9
+  "DFIntDebugRestrictGCDistance": 6
 }
